@@ -1,1 +1,2 @@
-# system_engineering-devops
+this is a readme file 
+for the shell scripting projects
